@@ -1,0 +1,4 @@
+services:
+  lazy_builder_example.example:
+    class: Drupal\lazy_builder_example\ExampleLazyBuilder
+    arguments: []

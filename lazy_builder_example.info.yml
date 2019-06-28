@@ -1,0 +1,6 @@
+name: Block lazy build Example
+type: module
+description: Demonstrates how a module can define a block with lazy_build.
+core: 8.x
+dependencies:
+  - drupal:block
