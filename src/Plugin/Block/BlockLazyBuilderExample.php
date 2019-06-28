@@ -24,7 +24,6 @@ class BlockLazyBuilderExample extends BlockBase {
       ],
       'content' => [
         '#markup' => '<br> no placeholder ->' . date('d-m-Y h:i:s'),
-        '#cache' => ['max_age' => 0],
       ],
     ];
   }
